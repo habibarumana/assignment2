@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f5f8ff;
+}
+
+/* header section */
+
+/*navbar*/
+ .navbar {
+    width: 100%;
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 15px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ }
+ 
+ .logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 135px;
+    height: 82px
+ }
+
+ .nav-links {
+    display: flex;
+    gap: 30px;
+ }
+
+ .nav-links a {
+    color: rgb(137, 135, 161);
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 1rem;
+ }
+
+ #home {
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 1rem;
+    color: rgb(37, 36, 50);
+ }
+
+ /* Banner */
+
+ .banner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: auto;
+    max-width: 1140px;
+    margin: 120px auto 0 auto;
+ }
+
+ .banner-description h1 {
+    font-size: 4rem;
+    font-weight: 700;
+    text-align: left;
+    margin-bottom: 13px;
+ }
+
+ .banner-description p {
+    font-size: 1.4rem;
+    font-weight: 400;
+    text-align: left;
+    color: rgba(0, 0, 0, 0.5);
+ }
+
+ .banner-description .fresh-flower {
+    color: #E95A08;
+ }
+
+ .img {
+    align-self: center;
+ }
