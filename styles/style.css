@@ -310,14 +310,14 @@ body {
 }
 
 .bloom-card {
-  background-image:  url('/assets/deal-bloom.png');
+  background-image:  url('../assets/deal-bloom.png');
   margin-bottom: 30px;
 }
 .ana-card {
-  background-image: url('/assets/deal-ana.png');
+  background-image: url('../assets/deal-ana.png');
 }
 .zabo-card {
-  background-image: url('/assets/deal-zabo.png');
+  background-image: url('../assets/deal-zabo.png');
   height: 100%;
 }
 
