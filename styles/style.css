@@ -86,7 +86,7 @@ body {
 
  .products-section {
    text-align: center;
-   margin: 120px auto 200px auto;
+   margin: 120px auto 100px auto;
    width: 100%;
     height: auto;
     max-width: 1140px;
@@ -179,10 +179,10 @@ body {
 
 .trusted-badge {
    position: absolute;
-   top: -50px;
-   right: -50px;
-   width: 120px;
-   height: auto;
+   top: -110px;
+   right: -110px;
+   width: 250px;
+   height: 250px;
    z-index: 2;
 }
 
